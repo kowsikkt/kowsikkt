@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 Profile Picture Animation</summary>
   <p align="center">
-    <img src="./ppimage.gif" width="240px" height="180px" />
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/ppimage.gif" width="240px" height="180px" />
   </p>
 </details>
 
@@ -30,10 +30,10 @@
 <details>
   <summary>📊 My GitHub Status</summary>
   <p align="center">
-    <img src="./github-status.png" />
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/github-status.png" />
   </p>
   <p align="center">
-    <img src="./github-languages.png" />
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/github-languages.png" />
   </p>
 </details>
 
@@ -42,7 +42,7 @@
 <details>
   <summary>🌟 Profile 3D Contributions 🔰</summary>
   <p align="center">
-    <img src="./profile-night-rainbow.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/profile-night-rainbow.svg" width="100%" />
   </p>
 </details>
 
