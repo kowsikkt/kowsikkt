@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kowsik
 
-## 🚀 A Passionate Full Stack Developer | Typing SVG Animation
+## 🚀 A Passionate Full Stack Developer | 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+Coder" />
 </p>
