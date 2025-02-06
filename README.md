@@ -98,19 +98,18 @@ GitHub Stats 🧐
 
 ---
 
-<h1 align="center">Support:</h1>
+<h1 align="center">Keep Smiling & Stay Positive 😊</h1>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/kowsikkt">
-  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-</a>
+  <img src="https://media.giphy.com/media/xT1XGNBgK3j1nWGEo8/giphy.gif" height="100" alt="Stay Positive"/>
 </p>
 
 <br>
 
 <h4 align="center">
-  Thank you for visiting my GitHub Profile 🤝
-  If you like what I am doing here, please give me a star ⭐ 
+  Thank you for visiting my GitHub Profile! 🤝  
+  Keep pushing forward and make every day count! 🚀  
+  If you like what I am doing, please consider giving me a ⭐
 </h4>
 
 <p align="center">
