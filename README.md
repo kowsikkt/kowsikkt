@@ -14,10 +14,6 @@
 
 ## 🎭 My Portfolio Website 🌐
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-orange)](https://yourportfolio.com)
-## My Portfolio Website : [pazindushane](#) 🔎
-
-![Hacker Animation](https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif)
-
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -38,6 +34,11 @@
 
 ## 🌌 My Skyline Contribution 2023
 ![Skyline](https://your-image-link)
+
+## 👨‍💻 Profile Picture Animation
+<p align="center">
+  <img src="./ppimage.gif" width="240px" height="180px" />
+</p>
 
 ## 💰 Support Me
 <p align="center">
